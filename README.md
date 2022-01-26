@@ -15,9 +15,6 @@ TIL 보러가기 </br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TECH&show_owner=true&theme=gruvbox" />
 </a>
 
-TIL 보러가기 </br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox)](https://github.com/O-h-y-o/TIL)
-
 STACKS
 ---
 
