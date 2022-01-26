@@ -3,7 +3,8 @@
 - 💬 현재 항해99 부트캠프에서 프론트엔드 개발자가 되기 위한 길을 걷고 있습니다.
 
 항해99를 하면서 프로그래밍을 시작하게 되었습니다.
-TIL 보러가기
+
+TIL 보러가기 </br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox)](https://github.com/O-h-y-o/TIL)
 
 STACKS
