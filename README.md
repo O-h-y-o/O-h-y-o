@@ -8,7 +8,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-h-y-o&show_icons=true&theme=onedark)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=khr112)](https://solved.ac/khr112)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khr112)](https://solved.ac/khr112)
 <!--
 **O-h-y-o/O-h-y-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
