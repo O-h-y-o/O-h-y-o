@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하세요
+- 🌱 성장중인 개발자입니다.
+- 💬 현재 항해99 부트캠프에서 개발자가 되기 위한 길을 걷고 있습니다.
 
 <!--
 **O-h-y-o/O-h-y-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
