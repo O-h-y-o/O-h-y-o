@@ -6,7 +6,10 @@
 
 
 TIL 보러가기 </br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox)](https://github.com/O-h-y-o/TIL)
+<a href="https://github.com/O-h-y-o/TIL">
+  <img align="center" src="(https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox" />
+</a>
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox)](https://github.com/O-h-y-o/TIL) -->
 
 TIL 보러가기 </br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox)](https://github.com/O-h-y-o/TIL)
@@ -36,6 +39,7 @@ STACKS
 
 ### 현재 진행중인 프로젝트
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Team3-zip&repo=F-E&show_owner=true&theme=highcontrast)](https://github.com/Team3-zip/F-E)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
