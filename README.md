@@ -7,9 +7,10 @@
 
 TIL 보러가기 </br>
 <a href="https://github.com/O-h-y-o/TIL">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox" />
+  <img align="center" src="(https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL />
 </a>
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox)](https://github.com/O-h-y-o/TIL) -->
+                           
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox)](https://github.com/O-h-y-o/TIL)
 
 TIL 보러가기 </br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox)](https://github.com/O-h-y-o/TIL)
