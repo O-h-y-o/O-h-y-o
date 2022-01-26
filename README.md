@@ -18,7 +18,7 @@ STACKS
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khr112)](https://solved.ac/khr112)
 
 
-## Projects
+# `Projects`
 
 ### 첫번째 미니 프로젝트
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=liamjeon&repo=project-bookreview&show_owner=true&theme=vue-dark)](https://github.com/liamjeon/project-bookreviewE)
