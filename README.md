@@ -28,7 +28,7 @@ STACKS
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=team7-clone-week&repo=Instagram&show_owner=true&theme=vue-dark)](https://github.com/team7-clone-week/Instagram)
 
 ### 현재 진행중인 프로젝트
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Team3-zip&repo=F-E&show_owner=true&theme=highcontrast)](https://github.com/Team3-zip/F-E)
+
 
 
 <!--
