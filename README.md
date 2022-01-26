@@ -4,13 +4,18 @@
 
 항해99를 하면서 프로그래밍을 시작하게 되었습니다.
 
-
+<div>
 TIL 보러가기 </br>
 <a href="https://github.com/O-h-y-o/TIL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox" />
 </a>
-                           
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox)](https://github.com/O-h-y-o/TIL)
+<div>
+  <div>
+TIL 보러가기 </br>
+<a href="https://github.com/O-h-y-o/TIL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox" />
+</a>
+<div>
 
 TIL 보러가기 </br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox)](https://github.com/O-h-y-o/TIL)
