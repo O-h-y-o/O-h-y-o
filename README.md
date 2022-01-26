@@ -19,9 +19,9 @@ STACKS
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=liamjeon&repo=project-bookreview&show_owner=true&theme=highcontrast)](https://github.com/liamjeon/project-bookreviewE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=HangHae-Team-9&repo=Front-End&show_owner=true&theme=highcontrast)](https://github.com/HangHae-Team-9/Front-End)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=team7-clone-week&repo=Instagram&show_owner=true&theme=highcontrast)](https://github.com/team7-clone-week/Instagram)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=liamjeon&repo=project-bookreview&show_owner=true&theme=vue-dark)](https://github.com/liamjeon/project-bookreviewE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=HangHae-Team-9&repo=Front-End&show_owner=true&theme=vue-dark)](https://github.com/HangHae-Team-9/Front-End)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=team7-clone-week&repo=Instagram&show_owner=true&theme=vue-dark)](https://github.com/team7-clone-week/Instagram)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Team3-zip&repo=F-E&show_owner=true&theme=highcontrast)](https://github.com/Team3-zip/F-E)
