@@ -18,8 +18,16 @@ STACKS
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khr112)](https://solved.ac/khr112)
 
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=liamjeon&repo=project-bookreview&show_owner=true&theme=highcontrast)](https://github.com/liamjeon/project-bookreviewE)
+
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Team3-zip&repo=F-E&show_owner=true&theme=highcontrast)](https://github.com/Team3-zip/F-E)
+
+
 <!--
+
 **O-h-y-o/O-h-y-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
