@@ -32,7 +32,7 @@ STACKS
 # `Projects`
 
 ### 첫번째 미니 프로젝트
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=liamjeon&repo=project-bookreview&show_owner=true&theme=vue-dark)](https://github.com/liamjeon/project-bookreviewE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=liamjeon&repo=project-bookreview&show_owner=true&theme=vue-dark)](https://github.com/liamjeon/project-bookreview)
 ### 두번째 미니 프로젝트
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=HangHae-Team-9&repo=Front-End&show_owner=true&theme=vue-dark)](https://github.com/HangHae-Team-9/Front-End)
 ### 인스타그램 클론코딩
