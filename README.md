@@ -10,7 +10,7 @@ TIL 보러가기 </br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox" />
 </a>
     
-개발일지 보러가기 </br>
+기술일지 보러가기 </br>
 <a href="https://github.com/O-h-y-o/TECH">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TECH&show_owner=true&theme=gruvbox" />
 </a>
