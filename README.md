@@ -13,7 +13,7 @@
 - React를 배워왔고, 어떤 라이브러리, 프레임워크든 빠르게 적응하고 사용할 수 있을거라 자신합니다.
 
 <div align=center>
-
+ 
 ### TIL 보러가기 </br>
 <a href="https://github.com/O-h-y-o/TIL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox" />
@@ -26,13 +26,14 @@
 
 ---
 
-<span style="font-size=30px" >STACKS</span></br>
+### `STACKS`
+</br>
 ![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React%20-61DAFB?style=flat-square&logo=React&logoColor=black)
 <br>
-
+![axios](https://img.shields.io/badge/axios%20-61DAFB?style=flat-square&logo=React&logoColor=black)
 ---
 
 
