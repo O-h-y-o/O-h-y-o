@@ -5,11 +5,11 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FO-h-y-o&count_bg=%2310C7B3&title_bg=%23555555&icon=&icon_color=%23CD9696&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
-  <div>
+
     ### 안녕하세요 </br>
      - 🌱 성장중인 개발자입니다. </br> 
      - 💬 현재 항해99 부트캠프에서 프론트엔드 개발자가 되기 위한 길을 걷고 있습니다. ~ 2/9
-  </div>
+
 
 ### TIL 보러가기 </br>
 <a href="https://github.com/O-h-y-o/TIL">
