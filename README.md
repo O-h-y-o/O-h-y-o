@@ -10,12 +10,12 @@
 - 💬 현재 항해99 부트캠프에서 프론트엔드 개발자가 되기 위한 길을 걷고 있습니다. ~ 2/9
 
 
-TIL 보러가기 </br>
+## TIL 보러가기 </br>
 <a href="https://github.com/O-h-y-o/TIL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox" />
 </a>
     
-기술일지 보러가기 </br>
+## 기술일지 보러가기 </br>
 <a href="https://github.com/O-h-y-o/TECH">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TECH&show_owner=true&theme=gruvbox" />
 </a>
