@@ -1,4 +1,4 @@
-<div align=center>
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Ohyo&fontSize=70)
   
@@ -9,6 +9,7 @@
 - 🌱 성장중인 개발자입니다. </br> 
 - 💬 현재 항해99 부트캠프에서 프론트엔드 개발자가 되기 위한 길을 걷고 있습니다. ~ 2/9
 
+<div align=center>
 
 ### TIL 보러가기 </br>
 <a href="https://github.com/O-h-y-o/TIL">
