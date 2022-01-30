@@ -22,7 +22,7 @@
 
 ---
 
-STACKS</br>
+<span style="font-size:30px" >STACKS</span></br>
 ![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
