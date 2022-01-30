@@ -21,7 +21,7 @@ TIL 보러가기 </br>
 </a>
 ---
 STACKS
-[![React,React Native](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/Joowon0220/My-app) [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://github.com/Joowon0220/NodeJS) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://github.com/Joowon0220/React_Login)
+[![React](https://img.shields.io/badge/React%20/%20ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black)]
 <br>
 ---
 
