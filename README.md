@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Ohyo&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Ohyo&fontSize=70)
 
 ### 안녕하세요
 - 🌱 성장중인 개발자입니다.
