@@ -41,8 +41,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-h-y-o&layout=compact&thema=apprentice)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khr112)](https://solved.ac/khr112)
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khr112)](https://solved.ac/khr112) -->
 
 
 # `Projects`
