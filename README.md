@@ -35,8 +35,9 @@
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React%20-61DAFB?style=flat-square&logo=React&logoColor=black)
 <br>
-![axios](https://img.shields.io/badge/Axios%20-red?style=flat-square&logo=axios&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux%20-#764ABC?style=flat-square&Color=black)
+![Axios](https://img.shields.io/badge/Axios%20-red?style=flat-square&logo=axios&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux%20-red?style=flat-square&logo=axios&logoColor=black)
+
 ---
 
 
