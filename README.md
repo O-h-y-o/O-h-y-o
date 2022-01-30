@@ -37,7 +37,7 @@
 <br>
 ![Axios](https://img.shields.io/badge/Axios%20-red?style=flat-square&logo=axios&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux%20-764ABC?style=flat-square&logo=Redux&logoColor=black)
-![Styled-Components](https://img.shields.io/badge/Styled-Components%20-DB7093?style=flat-square&logo=Styled-Components&logoColor=black)
+![Styled-Components](https://img.shields.io/badge/Styled Components%20-DB7093?style=flat-square&logo=StyledComponents&logoColor=black)
 ---
 
 
