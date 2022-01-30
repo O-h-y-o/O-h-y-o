@@ -20,8 +20,8 @@ TIL 보러가기 </br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TECH&show_owner=true&theme=gruvbox" />
 </a>
 ---
-STACKS
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
+STACKS</br>
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React%20-61DAFB?style=flat-square&logo=React&logoColor=black)
 <br>
 ---
