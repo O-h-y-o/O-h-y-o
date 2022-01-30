@@ -21,7 +21,7 @@ TIL 보러가기 </br>
 </a>
 ---
 STACKS
-[![React](https://img.shields.io/badge/React%20-61DAFB?style=flat-square&logo=React&logoColor=black)]
+![React](https://img.shields.io/badge/React%20-61DAFB?style=flat-square&logo=React&logoColor=black)
 <br>
 ---
 
