@@ -32,10 +32,12 @@
 ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React%20-61DAFB?style=flat-square&logo=React&logoColor=black)
-<br>
+</br>
 ![Axios](https://img.shields.io/badge/Axios%20-red?style=flat-square&logo=axios&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux%20-764ABC?style=flat-square&logo=Redux&logoColor=black)
 ![Styled-Components](https://img.shields.io/badge/StyledComponents%20-DB7093?style=flat-square&logo=StyledComponents&logoColor=black)
+</br>
+![mobX](https://img.shields.io/badge/mobX%20-red?style=flat-square&logo=mobX&logoColor=black)
 ---
 
 
