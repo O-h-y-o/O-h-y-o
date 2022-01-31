@@ -38,7 +38,7 @@
 ![Styled-Components](https://img.shields.io/badge/StyledComponents%20-DB7093?style=flat-square&logo=StyledComponents&logoColor=black)
 </br>
 ![mobX](https://img.shields.io/badge/mobX%20-FF9955?style=flat-square&logo=mobX&logoColor=black)
-![aws](https://img.shields.io/badge/aws%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=black)
+![aws](https://img.shields.io/badge/AWS%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=black)
 ---
 
 
