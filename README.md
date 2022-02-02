@@ -38,8 +38,11 @@
 ![Styled-Components](https://img.shields.io/badge/StyledComponents%20-DB7093?style=flat-square&logo=StyledComponents&logoColor=black)
 </br>
 ![mobX](https://img.shields.io/badge/mobX%20-FF9955?style=flat-square&logo=mobX&logoColor=black)
+![ReactRouter](https://img.shields.io/badge/ReactRouter%20-CA4245?style=flat-square&logo=ReactRouter&logoColor=black)
+</br>
 ![aws](https://img.shields.io/badge/AWS%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=black)
-![aws](https://img.shields.io/badge/ReactRouter%20-CA4245?style=flat-square&logo=ReactRouter&logoColor=black)
+![CloudFront](https://img.shields.io/badge/CloudFront%20-232F3E?style=flat-square&logo=CloudFront&logoColor=black)
+![Route53](https://img.shields.io/badge/Route53%20-232F3E?style=flat-square&logo=Route53&logoColor=black)
 ---
 
 ### `Contact Me`
