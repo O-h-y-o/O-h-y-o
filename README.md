@@ -43,11 +43,10 @@
 ---
 
 ### Contact Me
----
-
 📞010-2557-4892 </br>
 📧khr157929@gmail.com
 
+---
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-h-y-o&show_icons=true&theme=apprentice)
