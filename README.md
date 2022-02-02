@@ -41,8 +41,8 @@
 ![ReactRouter](https://img.shields.io/badge/ReactRouter%20-CA4245?style=flat-square&logo=ReactRouter&logoColor=black)
 </br>
 ![aws](https://img.shields.io/badge/AWS%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=black)
-![CloudFront](https://img.shields.io/badge/CloudFront%20-232F3E?style=flat-square&logo=CloudFront&logoColor=black)
-![Route53](https://img.shields.io/badge/Route53%20-232F3E?style=flat-square&logo=Route53&logoColor=black)
+![CloudFront](https://img.shields.io/badge/CloudFront%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=black)
+![Route53](https://img.shields.io/badge/Route53%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=black)
 ---
 
 ### `Contact Me`
