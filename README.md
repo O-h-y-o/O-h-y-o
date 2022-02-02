@@ -14,12 +14,12 @@
 
 <div align=center>
  
-### TIL 보러가기 </br>
+### `TIL 보러가기` </br>
 <a href="https://github.com/O-h-y-o/TIL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox" />
 </a>
     
-### 기술일지 보러가기 </br>
+### `기술일지 보러가기` </br>
 <a href="https://github.com/O-h-y-o/TECH">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TECH&show_owner=true&theme=gruvbox" />
 </a>
@@ -42,7 +42,7 @@
 ![aws](https://img.shields.io/badge/ReactRouter%20-CA4245?style=flat-square&logo=ReactRouter&logoColor=black)
 ---
 
-### Contact Me
+### `Contact Me`
 📞010-2557-4892 </br>
 📧khr157929@gmail.com
 
