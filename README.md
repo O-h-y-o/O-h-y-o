@@ -56,8 +56,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-h-y-o&layout=compact&thema=apprentice)](https://github.com/O-h-y-o)
 
-<!-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khr112)](https://solved.ac/khr112) -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khr112)](https://solved.ac/khr112)
 
 
 # 프로젝트를 통한 성장과정 `Projects`
