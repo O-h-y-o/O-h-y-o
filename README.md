@@ -24,6 +24,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TECH&show_owner=true&theme=gruvbox" />
 </a>
 
+### `현재 관심 / 공부중인 분야` </br>
+```
+Computer Science / Network
+why? 
+`cs지식이 없어도 코딩은 가능했다.
+하지만 cs지식이 풍부할수록, 더 깊이있는 코딩이 가능할 것이기 때문.`
+```
+
 ---
 
 ### `STACKS`
