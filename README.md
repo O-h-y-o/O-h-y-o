@@ -7,11 +7,6 @@
   
 </div>
 
-### 안녕하세요 </br>
-- 🌱 성장중인 개발자입니다. </br>
-- ~02-09 항해99 부트캠프 수료
-- 02-09~ [Team quagga - FE Team]
-
 <div align=center>
  
 ### `TIL 보러가기` </br>
