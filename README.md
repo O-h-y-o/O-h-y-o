@@ -52,7 +52,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-h-y-o&layout=compact&thema=apprentice)](https://github.com/O-h-y-o)
 
-<a href="https://nextbit.site" target="_blank">넥스트빗 프로젝트 보러가기</a>
+<a href="https://nextbit.site" target="_blank">![Static Badge](https://img.shields.io/badge/Nextbit 프로젝트 구경가기-black?style=for-the-badge)</a>
 
 <a href="https://O-h-y-o.github.io">![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) </a>
 
