@@ -25,7 +25,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-![Axios](https://img.shields.io/badge/Axios%20-red?style=flat-square&logo=axios&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios%20-red?style=for-the-badge&logo=axios&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Prettier-orange?style=for-the-badge)
 
