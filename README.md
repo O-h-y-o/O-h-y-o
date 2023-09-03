@@ -30,8 +30,10 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ![Axios](https://img.shields.io/badge/Axios%20-red?style=for-the-badge&logo=axios&logoColor=black)
+![Static Badge](https://img.shields.io/badge/i18n-opal?style=for-the-badge)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Prettier-orange?style=for-the-badge)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 ![S3](https://img.shields.io/badge/S3%20-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=black)
 ![CloudFront](https://img.shields.io/badge/CloudFront%20-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=black)
