@@ -29,7 +29,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Prettier-orange?style=for-the-badge)
 
-![aws](https://img.shields.io/badge/AWS%20-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=black)
+![S3](https://img.shields.io/badge/S3%20-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=black)
 ![CloudFront](https://img.shields.io/badge/CloudFront%20-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=black)
 ![Route53](https://img.shields.io/badge/Route53%20-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
