@@ -52,9 +52,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=O-h-y-o&layout=compact&thema=apprentice)](https://github.com/O-h-y-o)
 
-### Nextbit
+### [Nextbit](https://nextbit.site)
 
-[Nextbit](https://nextbit.site)
+
 
 
 <a href="https://O-h-y-o.github.io">![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) </a>
