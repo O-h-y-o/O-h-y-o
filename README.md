@@ -54,7 +54,7 @@
 
 ### Nextbit
 
-[![Readme Card](https://nextbit.site)
+![Nextbit](https://nextbit.site)
 
 
 <a href="https://O-h-y-o.github.io">![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) </a>
