@@ -29,11 +29,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# ![Axios](https://img.shields.io/badge/Axios%20-red?style=for-the-badge&logo=axios&logoColor=black)
-# ![Static Badge](https://img.shields.io/badge/i18n-opal?style=for-the-badge)
-# ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-# ![Static Badge](https://img.shields.io/badge/Prettier-orange?style=for-the-badge)
-# ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 ![S3](https://img.shields.io/badge/S3%20-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=black)
 ![CloudFront](https://img.shields.io/badge/CloudFront%20-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=black)
