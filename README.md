@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Ohyo&fontSize=70)
 
 ### `Contact Me`
-📞010-2557-4892 </br>
 📧khr157929@gmail.com
 
 
